@@ -9,7 +9,11 @@ This project is a Deep Learning application that classifies Iris flowers into th
 🔗 https://irisannclassifier-mgl47pscslpq68tpztyclq.streamlit.app/
 
 ---
+## 📸 Application Screenshot
 
+![Iris ANN Classifier](images/app_screenshot.png)
+
+---
 ## 📌 Features
 
 - 🌸 Predicts Iris flower species

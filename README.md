@@ -11,8 +11,7 @@ This project is a Deep Learning application that classifies Iris flowers into th
 ---
 ## 📸 Application Screenshot
 
-![Iris ANN Classifier]("E:\DEEP LEARNING\DEEP1\IRIS_ANN_CLASSIFIER\image"/app_screenshot.png)
-
+![Iris ANN Classifier](images/app_screenshot.png)
 ---
 ## 📌 Features
 
